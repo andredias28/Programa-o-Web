@@ -1,0 +1,30 @@
+.imagem{
+    text-align: center;
+    height: 300px;
+    padding: 40px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #0c68c9;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.caixaTabela{
+    margin-top: 2%;
+    text-align: center;
+}
+td{
+    align-items: center;
+}
+.tabela{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40%;
+}
